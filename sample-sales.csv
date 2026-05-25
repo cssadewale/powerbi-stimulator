@@ -1,0 +1,6 @@
+order_id,date,region,product,quantity,unit_price,revenue,cost,customer
+ORD-1001,2026-01-04,Nigeria,CBT Pro,3,25000,75000,45000,School
+ORD-1002,2026-01-08,Ghana,HMG Academy,5,12000,60000,35000,Teacher
+ORD-1003,2026-02-12,Kenya,Data Course,2,50000,100000,60000,SME
+ORD-1004,2026-02-15,Benin,Consulting,1,85000,85000,55000,School
+ORD-1005,2026-03-03,Togo,CBT Pro,6,25000,150000,90000,Parent
