@@ -1,6 +1,0 @@
-order_id,date,month,customer,product,region,quantity,unit_price,cost,revenue,status
-ORD0001,2026-01-05,2026-01,Customer 1,CBT Pro,Lagos,3,5000,2600,15000,Paid
-ORD0002,2026-01-12,2026-01,Customer 2,HMG Academy,Abuja,2,7500,3900,15000,Paid
-ORD0003,2026-02-02,2026-02,Customer 3,Tutoring,Kano,4,2500,1200,10000,Pending
-ORD0004,2026-02-18,2026-02,Customer 4,Data Service,Rivers,1,12000,6200,12000,Paid
-ORD0005,2026-03-03,2026-03,Customer 5,CBT Pro,Oyo,5,5000,2600,25000,Paid
